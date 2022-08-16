@@ -7,5 +7,9 @@ Nurses can "bookmark" the wards they work on most for easy access on the home sc
 
 Ward types and data field names can be changed in the Dataverse tables "Ward Types" and "Ward Fields". 
 
+<img src="ward handover.jpg" alt="Ward Handover App">
+
+<img src="ward handover tables.jpg" alt="Ward Handover Tables in Dataverse for Teams">
+
 ## Deployment
 In the PowerApps Teams app, on the Build tab, choose the team you want to deploy to. Click "see all" in the list of apps, then click Import in the toolbar. Choose the .zip file you've downloaded from this repository. When import is complete, customize the UI and tables as needed.
